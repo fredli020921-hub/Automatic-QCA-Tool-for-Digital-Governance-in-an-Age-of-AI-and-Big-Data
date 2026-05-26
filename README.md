@@ -23,8 +23,8 @@
 ### 1. 克隆或下载项目
 
 ```bash
-git clone https://github.com/你的用户名/auto-qca.git
-cd auto-qca
+git clone https://github.com/fredli020921-hub/Automatic-QCA-Tool-for-Digital-Governance-in-an-Age-of-AI-and-Big-Data.git
+cd Automatic-QCA-Tool-for-Digital-Governance-in-an-Age-of-AI-and-Big-Data
 ```
 
 ### 2. 安装依赖
